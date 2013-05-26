@@ -2,7 +2,7 @@
 # Tells if a number is prime
 
 	.data
-num:	.word	3				# This is the number we'll test to see
+num:	.word	743711					# This is the number we'll test to see
 							# if it's prime.
 							# It will be located by the label `num`
 	.text
